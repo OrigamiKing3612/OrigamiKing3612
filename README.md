@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-<!--
-**OrigamiKing3612/OrigamiKing3612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigamiKing3612&theme=transparent&hide=markdown&langs_count=5" alt="OrigamiKing3612" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OrigamiKing3612&show_icons=true&count_private=true&line_height=27&theme=transparent" alt="OrigamiKing3612" />
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
