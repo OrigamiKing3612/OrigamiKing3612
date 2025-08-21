@@ -10,10 +10,14 @@ I made [Terminal Kingdom](https://github.com/OrigamiKing3612/Terminal-Kingdom) a
 - [My Dotfiles](https://github.com/OrigamiKing3612/dotfiles) - My personal setup
 
 
-### 🌱 Currently
+### Currently
 - Making [The House App](https://github.com/OrigamiKing3612/The-House-App-Website) ready for production!
 - Learning Godot 4 for 2D game development
 - Experimenting with workflow automation using n8n
+
+### What I use
+- Languages: Go, TypeScript, Swift, Vue
+- Tools: Docker, Neovim, Nuxt 4
 
 ---
 
