@@ -8,12 +8,12 @@ I made [Terminal Kingdom](https://github.com/OrigamiKing3612/Terminal-Kingdom) a
 - [Terminal Kingdom](https://github.com/OrigamiKing3612/Terminal-Kingdom) - Text Based game
 - [Terminal Kingdom 2.0](https://github.com/OrigamiKing3612/Terminal-Kingdom-2.0) - The 2D Topdown version of Terminal Kingdom
 - [My Dotfiles](https://github.com/OrigamiKing3612/dotfiles) - My personal setup
+- [origamiking3612.com](https://github.com/OrigamiKing3612/origamiking3612.com) - My personal website
 
 
 ### Currently
 - Making [The House App](https://github.com/OrigamiKing3612/The-House-App-Website) ready for production!
 - Learning Godot 4 for 2D game development
-- Experimenting with workflow automation using n8n
 
 ### What I use
 - Languages: Go, TypeScript, Swift, Vue
