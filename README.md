@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm OrigamiKing3612
+## 👋 Hi there! I'm Malachi
 
 I made [Terminal Kingdom](https://github.com/OrigamiKing3612/Terminal-Kingdom), [The House App](https://the-house-app.com), and [Origami Systems](https://origamisystems.org).
 
