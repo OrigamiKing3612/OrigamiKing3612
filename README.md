@@ -4,7 +4,7 @@ I made [Terminal Kingdom](https://github.com/OrigamiKing3612/Terminal-Kingdom), 
 
 ### Some of my projects
 
-- [The House App](https://github.com/OrigamiKing3612/The-House-App-Website) - A cutting edge app for tracking a House system
+- [The House App](https://github.com/Origami-Systems/the-house-app.com) - A cutting edge app for tracking a House system
 - [Terminal Kingdom](https://github.com/OrigamiKing3612/Terminal-Kingdom) - Text Based game
 - [Terminal Kingdom 2.0](https://github.com/OrigamiKing3612/Terminal-Kingdom-2.0) - The 2D Topdown version of Terminal Kingdom
 - [My Dotfiles](https://github.com/OrigamiKing3612/dotfiles) - My personal setup
