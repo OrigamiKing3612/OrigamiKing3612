@@ -24,7 +24,7 @@ I made [Terminal Kingdom](https://github.com/OrigamiKing3612/Terminal-Kingdom), 
 
 ### 📊 GitHub Stats
 
-| ![GitHub stats](https://github-readme-stats.origamiking3612.com/api?username=OrigamiKing3612&show_icons=true&count_private=true&line_height=27&theme=transparent) | ![Top languages](https://github-readme-stats.origamiking3612.com/api/top-langs/?username=OrigamiKing3612&theme=transparent&hide=markdown&langs_count=5) |
+| ![GitHub stats](https://raw.githubusercontent.com/OrigamiKing4723/github-readme-stats/refs/heads/main/profile/origamiking3612-stats.svg) | ![Top languages](https://raw.githubusercontent.com/OrigamiKing4723/github-readme-stats/refs/heads/main/profile/origamiking3612-top-langs.svg) |
 | --- | --- |
 | ![Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=645&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8) | |
 
