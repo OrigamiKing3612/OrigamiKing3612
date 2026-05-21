@@ -23,7 +23,7 @@ I made [Terminal Kingdom](https://github.com/OrigamiKing3612/Terminal-Kingdom), 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 | ![GitHub stats](https://raw.githubusercontent.com/OrigamiKing4723/github-readme-stats/refs/heads/main/profile/origamiking3612-stats.svg) | ![Top languages](https://raw.githubusercontent.com/OrigamiKing4723/github-readme-stats/refs/heads/main/profile/origamiking3612-top-langs.svg) |
 | --- | --- |
